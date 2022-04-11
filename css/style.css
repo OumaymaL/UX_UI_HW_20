@@ -1,0 +1,80 @@
+.navbar{
+    background-color: #FFEBEE;
+    padding-left: 200px;
+}
+
+
+.jumbotron-fluid{
+    background-image: url("../img/HeroBackground.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+   
+}
+.container{
+    padding-top: 70px;
+}
+.screens{
+    display: inline-block;
+    justify-content: space-evenly;
+    padding-left: 900px;
+}
+.demographics{
+    padding-left: 200px ;
+    padding-top: 20px;
+}
+.quotes{
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 50px;
+}
+.sml{
+    padding-left: 200px;
+}
+.persona{
+    padding-left: 200px;
+}
+.probQuote{
+    padding-left: 200px;
+    padding-right: 200px;
+
+}
+.ideation{
+    background-color: black;
+    background-size: cover ;
+    height: 800px;
+    color: white;
+}
+.intro {
+    padding-top: 30px;
+    padding-left: 200px;
+
+}
+#scenario{
+    padding-right: 150px;
+    padding-left: 200px;
+    color: black;
+    padding-top: 30px;
+}
+.features{
+    padding-left: 200px; 
+}
+.solution{
+    padding-left: 200px;
+}
+#testcards{
+    padding-left: 200px; 
+    padding-right: 150px;
+}
+.lofi{
+    padding-bottom: 20px;
+}
+#testing{
+    background-color: #FFEBEE;
+    height: 370px;
+    padding-top: 20px;
+}
+.iterations{
+    padding-left: 200px;
+    padding-top: 30px;
+}
